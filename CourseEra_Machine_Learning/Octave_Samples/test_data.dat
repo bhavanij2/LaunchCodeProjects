@@ -1,0 +1,24 @@
+# Created by Octave 4.4.1, Thu Apr 09 15:32:41 2020 CDT <bbjang@C02Z74HNLVDQ>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 5
+ 3 4 6
+ 7 8 9
+
+
+# name: a
+# type: string
+# elements: 1
+# length: 4
+2232
+
+
+# name: ans
+# type: sq_string
+# elements: 1
+# length: 13
+/Users/bbjang
+
+
